@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculations</string>
+    <string name="nrofunits">Enter a number</string>
+    <string name="nrofunits1">Number of units</string>
+    <string name="unitprice">Enter a number</string>
+    <string name="unitprice1">Unit price</string>
+</resources>
